@@ -112,9 +112,19 @@ python inference_classifier.py
 
 * **Gesture: Hello (ASL)** → Output: `Hello`
 * **Gesture: L (ASL)** → Output: `L`
-
-
-(Future: Expand vocabulary to full alphabets, words, and phrases)
+  
+![WhatsApp Image 2025-08-19 at 11 01 44 AM (1)](https://github.com/user-attachments/assets/0e8a0e10-c00f-41c4-a781-67819a37120e)
+![WhatsApp Image 2025-08-19 at 11 01 45 AM (1)](https://github.com/user-attachments/assets/5fb3784c-8ffe-4f36-8e7c-a25db43aa4cc)
+![WhatsApp Image 2025-08-19 at 11 01 41 AM](https://github.com/user-attachments/assets/8e41dd6e-067c-4e0d-90fd-e4822e28a007)
+![WhatsApp Image 2025-08-19 at 11 01 41 AM (1)](https://github.com/user-attachments/assets/b0bb7bc1-589d-4a71-998d-c54e569465ab)
+![WhatsApp Image 2025-08-19 at 11 01 46 AM](https://github.com/user-attachments/assets/fc0b9312-4e5a-410d-bbb7-c1ebdded7e55)
+![WhatsApp Image 2025-08-19 at 11 01 43 AM (1)](https://github.com/user-attachments/assets/5b2bf5ae-58b3-4531-bf84-7b5aaa2ab49d)
+![WhatsApp Image 2025-08-19 at 11 01 45 AM](https://github.com/user-attachments/assets/ad38bd82-ad82-4530-9e10-066ec3167cbf)
+![WhatsApp Image 2025-08-19 at 11 01 43 AM](https://github.com/user-attachments/assets/61a50dd5-9f4c-4a78-8bd1-b2991320b8fe)
+![WhatsApp Image 2025-08-19 at 11 01 42 AM](https://github.com/user-attachments/assets/e0bcb710-3d11-4924-b0c1-c0c543db89e2)
+![WhatsApp Image 2025-08-19 at 11 01 42 AM (1)](https://github.com/user-attachments/assets/63d4c129-35ed-4fc8-ac24-c8a51beb55df)
+![WhatsApp Image 2025-08-19 at 11 01 45 AM (2)](https://github.com/user-attachments/assets/9845e3f6-dec4-4537-b44a-3ef4d334aa4b)
+![WhatsApp Image 2025-08-19 at 11 01 44 AM](https://github.com/user-attachments/assets/bbfa997c-f7d6-43ba-9462-a88ce0c2a373)
 
 ---
 
