@@ -66,7 +66,7 @@ This project captures hand gestures via a webcam, processes them into hand landm
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/sign-language-translator.git
+git clone https://github.com/Mrunalisa/Sign-Language-Translator.git
 cd sign-language-translator/ASL
 
 # Create and activate virtual environment
